@@ -87,23 +87,23 @@ Like My Work?
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/deveshcode/howdoilook"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/TradeByte?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/deveshcode/howdoilook"><b>💸 How Do I Look ? </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/howdoilook?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/howdoilook?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/howdoilook?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/howdoilook?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/howdoilook?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/deveshcode/artistlyricgenerator"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/TheNodeCourse?style=flat-square"/></td> 
+	      <td><a href="https://github.com/deveshcode/artistlyricgenerator"><b>👨🏻‍💻 Artist Lyric Generator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/artistlyricgenerator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/artistlyricgenerator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/artistlyricgenerator?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/artistlyricgenerator?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/artistlyricgenerator?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/deveshcode/deveshcode"><b>🤓 deveshcode</b></a></td>
+	      <td><a href="https://github.com/deveshcode/deveshcode"><b>🤓 Devesh Code</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/deveshcode?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/deveshcode?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/deveshcode?style=flat-square"/></td>
