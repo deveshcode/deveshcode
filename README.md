@@ -57,8 +57,7 @@ Like My Work?
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
-  <br />
-  <table>
+<table>
     <thead align="center">
       <tr border: none;>
         <td><b>💻 Projects</b></td>
@@ -71,34 +70,42 @@ Like My Work?
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/deveshcode/howdoilook"><b>💸 How Do I Look ? </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/howdoilook?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/howdoilook?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/howdoilook?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/howdoilook?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/howdoilook?label=javascript&style=flat-square"/></td>
+	      <td><a href="https://github.com/deveshcode/QnA_RAG"><b>❓ QnA RAG</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/QnA_RAG?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/QnA_RAG?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/QnA_RAG?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/QnA_RAG?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/QnA_RAG?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/deveshcode/artistlyricgenerator"><b>👨🏻‍💻 Artist Lyric Generator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/artistlyricgenerator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/artistlyricgenerator?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/artistlyricgenerator?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/artistlyricgenerator?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/artistlyricgenerator?style=flat-square"/></td> 
+	      <td><a href="https://github.com/deveshcode/SkinRashGenerator"><b>🦠 Skin Rash Generator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/SkinRashGenerator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/SkinRashGenerator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/SkinRashGenerator?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/SkinRashGenerator?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/SkinRashGenerator?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/deveshcode/deveshcode"><b>🤓 Devesh Code</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/deveshcode?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/deveshcode?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/deveshcode?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/deveshcode?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+	      <td><a href="https://github.com/deveshcode/parallelized-image-captioner-pytorch"><b>🖼️ Parallelized Image Captioner</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/parallelized-image-captioner-pytorch?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/parallelized-image-captioner-pytorch?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/parallelized-image-captioner-pytorch?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/parallelized-image-captioner-pytorch?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/parallelized-image-captioner-pytorch?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/deveshcode/GPT-WanderWithDevesh"><b>🌍 GPT Wander With Devesh</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/deveshcode/GPT-WanderWithDevesh?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/deveshcode/GPT-WanderWithDevesh?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/deveshcode/GPT-WanderWithDevesh?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deveshcode/GPT-WanderWithDevesh?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/deveshcode/GPT-WanderWithDevesh?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
   <br />
 </details>
- 
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
